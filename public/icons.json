@@ -1,11 +1,4 @@
 {
-  "short_name": "Agenda Contactos",
-  "name": "Agenda de Contactos React",
-  "descrption": "Esta es una Agenda de contactos desarrollada con React y PWA",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#52331c",
-  "background_color": "#ffffff",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
